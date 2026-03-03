@@ -1,0 +1,4 @@
+1. dotnet aspnet-codegenerator view Create Create --model Person --useDefaultLayout --relativeFolderPath Views\Person
+2. dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design
+3. dotnet aspnet-codegenerator view CreateVM Create --model CreatePersonVM --useDefaultLayout --relativeFolderPath Views\Person
+4. dotnet aspnet-codegenerator view CreatePerson Create --model PersonVM --useDefaultLayout --relativeFolderPath Views\Person

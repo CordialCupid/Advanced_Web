@@ -1,0 +1,10 @@
+1. CSRF attack mitigation
+    created personcontroller action method Create with ValidateAntiForgeryToken attribute and created person model
+
+2. Over Posting mitigation  
+    created personcontroller action method with two methods of mitigation and created person view model with factory method
+
+3. Data annotations
+    created PersonVM and showcased how to use entity data annotations; also created CreatePerson action method and generated CreatePerson view; added jquery validation for client side in CreatePerson view
+
+4. Added "NotInFutureDate" attribute in PersonVM model and added attribute folder with defined "NotInFutureDate" attribute

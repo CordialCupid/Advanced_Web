@@ -1,0 +1,79 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+
+    //turns off layout thats set in shared/_viewstart
+    //Layout = null;
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<!-- This is client side comment -->
+
+@* This is a server side comment *@
+Some text
+@*
+    This is another server-side comment
+*@
+
+@* Code block *@
+@{
+    string greet = "Hello";
+    char gender = 'M';
+    double val = 12.3;
+    decimal tax = 0.01M;
+    float value2 = 3.4f;
+}
+
+@* Inline Expression *@
+<p>Greet gender val tax value2</p>
+<p>@greet @val @tax @value2</p>
+<p>@greet Jeff. You are @gender. Value is @val.</p>
+
+@* Code and Markup *@
+@if (gender == 'M') {
+    <h3>Male</h3>
+}
+else {
+    <h3>Other</h3>
+}
+
+@for (int i = 2; i <= 20; i+=2) {
+    <span>@i</span>
+}
+
+@{
+    string[] names = {"John", "Jane", "Devlin", "Mary"};
+}
+
+<ul>
+    @foreach (var n in names) {
+        <li>@n</li>
+    }
+</ul>
+
+@{
+    var foo = true;
+    var bar = "some value";
+}
+
+@*
+Using plain text inside of a C# code block
+*@
+
+@if (foo){
+    <text>Plain-Text</text>
+}
+<br />
+
+@if (foo) {
+    @:Plain-Text @bar
+}
+
+@* Explicit Expression*@
+<br />
+345 * 67 % 37 = @(345 * 67 % 37)
+
+<partial name="_MyPartial" />

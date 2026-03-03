@@ -1,0 +1,10 @@
+@{
+    ViewData["Title"] = "My Method";
+}
+
+<p>@ViewData["SomeValue1"]</p>
+
+<p>@ViewBag.SomeValue2</p>
+
+@*Demonstrating that ViewData and ViewBag refrence the same data structure*@
+<p>@ViewData["SomeValue2"]</p>

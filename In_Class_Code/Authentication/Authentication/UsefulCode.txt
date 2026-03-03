@@ -1,0 +1,118 @@
+Create new MVC Project
+   dotnet new mvc -n <project name>
+   
+Build the application
+   dotnet build
+   
+Run the application
+   dotnet run
+   dotnet watch run
+
+Install entity framework tools globally
+   dotnet tool install --global dotnet-ef
+   
+Install the code generation tool:
+   dotnet tool install --global dotnet-aspnet-codegenerator
+
+Add code generation package:
+   dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design
+
+Scaffold a default empty view:
+   dotnet aspnet-codegenerator view <viewname> <viewtemplate> --useDefaultLayout --relativeFolderPath Views/<viewfolder>
+
+   <viewtemplate> ::= Empty|Create|Edit|Delete|Details|List
+
+
+Controller Template
+using Microsoft.AspNetCore.Mvc;
+
+namespace <project>.Controllers;
+
+public class <ControllerName>Controller : Controller
+{
+}
+
+Packages
+dotnet add package Microsoft.EntityFrameworkCore.Sqlite
+dotnet add package Microsoft.EntityFrameworkCore.Tools
+dotnet add package Microsoft.EntityFrameworkCore.Design
+dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design
+
+Version
+  -- version 9.*
+
+DbContext
+public class ApplicationDbContext : DbContext
+{
+    public ApplicationDbContext(DbContextOptions options) : base(options)
+    {
+    }
+
+    public DbSet<_change_me> _change_me => Set<_change_me>();
+}
+
+Connection string
+"ConnectionStrings": {
+    "DefaultConnection": "Data Source=_change_me.db"
+}
+
+DbContext Configuration
+using LecAuth.Services;
+using Microsoft.EntityFrameworkCore;
+
+builder.Services.AddDbContext<YourDbContext>(options =>
+   options.UseSqlite(
+      builder.Configuration.GetConnectionString("DefaultConnection"))
+);
+
+Create initial migration
+   dotnet ef migrations add Mig1
+
+Update database
+   dotnet ef database update
+
+Add new migrations
+   dotnet ef migrations add MigrationName
+
+Remove last migration
+   dotnet ef migrations remove
+
+Generate SQL script
+   dotnet ef migrations script
+
+dotnet add package Microsoft.AspNetCore.Identity.EntityFrameworkCore
+dotnet add package Microsoft.AspNetCore.Identity.UI
+
+Identity DbContext ------------------------------------------------------------
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
+
+public class ApplicationDbContext : IdentityDbContext
+{
+    public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) 
+        : base(options)
+    {
+    }
+
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
+        base.OnModelCreating(modelBuilder);
+    }
+	
+	public DbSet<_change_me> _change_me => Set<_change_me>();
+
+}
+
+Add Identity services ---------------------------------------------------------
+using Microsoft.AspNetCore.Identity;
+
+builder.Services.AddDefaultIdentity<IdentityUser>(options => 
+    {
+        options.SignIn.RequireConfirmedAccount = false;
+        // Configure other options as needed
+    })
+    .AddEntityFrameworkStores<ApplicationDbContext>();
+
+Generate the Identity UI ------------------------------------------------------
+dotnet aspnet-codegenerator identity -dc ApplicationDbContext --files "Account.Register;Account.Login;Account.Logout"
+
