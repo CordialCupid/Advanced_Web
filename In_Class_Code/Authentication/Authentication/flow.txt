@@ -12,5 +12,13 @@
 11. Added "Authorize" attribute to home controller and "AllowAnonymous" to "About" method
 12. Added ApplicationUser to models
 13. Added "@using Authentication.Models.Entities;" to viewimports
-14. Replaced instances of "IdentityUser" to "ApplicationUser"
-15. 
+14. Replaced instances of "IdentityUser" with "ApplicationUser"
+15. Added User Repository files to services and added implementation of ReadByUsernameAsync
+16. Added Scoped service to program.cs
+17. Added dependency injection for userRepo and GetUserId method to home controller 
+18. Added name properties to ApplicationUser to be added to User table in DB and added migration to update DB
+19. Added first and last name input models to Areas.Register.cshtml.cs as well as property setting in postasync method; added div elements for input
+20. Added code to change name dispay in loginpartial.cshtml
+21. Added createasync method to UserRepo and added usermanager as dependency injection to the Repository
+22. Added create test user action method to home controller
+23. 

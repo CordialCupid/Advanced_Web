@@ -7,6 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddScoped<IUserRepository, DbUserRepository>();
 
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
    options.UseSqlite(
@@ -19,6 +20,7 @@ builder.Services.AddDefaultIdentity<ApplicationUser>(options =>
         options.SignIn.RequireConfirmedAccount = false;
         // Configure other options as needed
     })
+    .AddUserManager<UserManager<ApplicationUser>>()
     .AddEntityFrameworkStores<ApplicationDbContext>();
 
 

@@ -1,11 +1,23 @@
 @using Microsoft.AspNetCore.Identity
+@using Authentication.Services
 
 @inject SignInManager<ApplicationUser> SignInManager
 @inject UserManager<ApplicationUser> UserManager
+@inject IUserRepository userRepo
 
 <ul class="navbar-nav">
 @if (SignInManager.IsSignedIn(User))
 {
+    ApplicationUser? user = await userRepo.ReadByUsernameAsync(User.Identity!.Name);
+    string fullName = $"{user!.FirstName} {user!.LastName}";
+
+    <li class="nav-item">
+            <a id="manage" class="nav-link text-dark" 
+                asp-area="Identity" 
+                asp-page="/Account/Manage/Index" title="Manage">
+                Hello @fullName!
+            </a>
+    </li>
     <li class="nav-item">
         <a id="manage" class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">Hello @UserManager.GetUserName(User)!</a>
     </li>
