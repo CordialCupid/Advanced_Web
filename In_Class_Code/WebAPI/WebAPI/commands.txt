@@ -1,0 +1,13 @@
+1. dotnet add package Microsoft.EntityFrameworkCore.Sqlite --version 9.*
+2. dotnet add package Microsoft.EntityFrameworkCore.Tools --version 9.*
+3. dotnet add package Microsoft.EntityFrameworkCore.Design --version 9.*
+4. dotnet ef migrations add Mig1
+5. dotnet ef database update
+6. dotnet run
+7. curl.exe http://localhost:5076/api/pet/all
+8. dotnet run
+9. curl.exe -X POST http://localhost:5286/api/pet/create -H "Content-Type:application/x-www-form-urlencoded" -d "Name=Buffy&Weight=3.6"
+10. dotnet run
+11. curl.exe http://localhost:5286/api/pet/one/1
+12. curl.exe -X PUT http://localhost:5286/api/pet/update -H "Content-Type:application/x-www-form-urlencoded" -d "Id=1&Name=Polly-Anna&Weight=1.5"
+13. curl.exe -X DELETE http://localhost:5286/api/pet/delete/1 

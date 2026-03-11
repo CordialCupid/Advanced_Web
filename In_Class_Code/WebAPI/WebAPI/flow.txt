@@ -1,0 +1,21 @@
+1. Added app.MapControllers() to program.cs
+2. Created Demo1Controller
+3. added route attribute to top of Demo1Controller
+4. added parameterized GET to Demo1Controller
+5. Extended route by adding "/intdata/{id}"
+6. Added Demo2Controller and Route to Demo2
+7. Added details endpoint
+8. Added packages
+9. Created services -> DBContext and Data with database; also added connection string
+10. Added appdbcontext to program.cs and added migration and database update
+11. Created IPetRepository and DbPetRepository
+12. Linked IPet and DbPet in program.cs
+13. Created PetController and added route
+14. Used Curl to test endpoint "curl.exe http://localhost:5076/api/pet/all"
+15. Added createpet method to Repo files and added endpoint to MapControllers
+16. used curl to test POST endpoint 
+17. created ReadAsync to repos, added endpoint to MapControllers
+18. Added update method to repos and enpoint in MapControllers
+19. Tested endpoint with curl
+20.  Created Delete methods and endpoint
+21. tested with curl
