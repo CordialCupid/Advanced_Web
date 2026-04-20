@@ -1,0 +1,102 @@
+<div class="container">
+    <h2>Stacked</h2>
+    <form id="createPetForm" asp-action="Create">
+        <div class="mb-3 col-4">
+            <label for="Name" class="form-label">Name</label>
+            <input type="text" id="Name" class="form-control" />
+        </div>
+        <div class="mb-3 col-3">
+            <label for="Type" class="form-label">Pet Type</label>
+            <select class="form-select" id="Type" aria-label="Pet type">
+                <option selected>Choose your pet's type:</option>
+                <option value="Bird">Bird</option>
+                <option value="Cat">Cat</option>
+                <option value="Dog">Dog</option>
+                <option value="Snake">Snake</option>
+            </select>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Gender</label>
+            <div class="form-check">
+                <input class="form-check-input" type="radio" id="femaleRdo" name="Gender" value="Female" checked />
+                <label class="form-check-label" for="femaleRdo">
+                    Female
+                </label>
+            </div>
+            <div class="form-check">
+                <input class="form-check-input" type="radio" id="maleRdo" name="Gender" value="Male" />
+                <label class="form-check-label" for="maleRdo">
+                    Male
+                </label>
+            </div>
+        </div>
+        <div class="mb-3">
+            <div class="form-check">
+                <input for="IsNeutered" class="form-check-input" type="checkbox" id="isNeuteredChk">
+                <label class="form-check-label" for="isNeuteredChk">
+                    Is Neutered
+                </label>
+            </div>
+        </div>
+        <div class="mb-3">
+            <input type="submit" value="Create" class="btn btn-primary" />
+        </div>
+    </form>
+</div>
+
+<div class="container">
+    <h2>Horizontal</h2>
+    <form id="createPetForm" asp-action="Create">
+        <div class="row mb-3">
+            <label for="Name" class="col-1 col-form-label">Name</label>
+            <div class="col-5">
+                <input type="text" id="Name" class="form-control" />
+            </div>
+        </div>
+        <div class="row mb-3">
+            <label for="Type" class="col-1 col-form-label">Pet Type</label>
+            <div class="col-5">
+                <select class="form-select" id="Type" aria-label="Pet type">
+                    <option selected>Choose your pet's type:</option>
+                    <option value="Bird">Bird</option>
+                    <option value="Cat">Cat</option>
+                    <option value="Dog">Dog</option>
+                    <option value="Snake">Snake</option>
+                </select>
+            </div>
+        </div>
+        <div class="row mb-3">
+            <label class="col-1 col-form-label pt-0">Gender</label>
+            <div class="col-11">
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" id="femaleRdo" name="Gender" value="Female" checked />
+                    <label class="form-check-label" for="femaleRdo">
+                        Female
+                    </label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" id="maleRdo" name="Gender" value="Male" />
+                    <label class="form-check-label" for="maleRdo">
+                        Male
+                    </label>
+                </div>
+            </div>
+        </div>
+        <div class="row mb-3">
+            <div class="col-11 offset-1">
+                <div class="form-check">
+                    <input for="IsNeutered" class="form-check-input" type="checkbox" id="isNeuteredChk">
+                    <label class="form-check-label" for="isNeuteredChk">
+                        Is Neutered
+                    </label>
+                </div>
+            </div>
+        </div>
+        <div class="row mb-3">
+            <div class="col-11 offset-1">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </div>
+    </form>
+</div>
+

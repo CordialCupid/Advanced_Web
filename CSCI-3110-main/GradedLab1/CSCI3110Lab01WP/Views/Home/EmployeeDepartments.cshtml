@@ -1,0 +1,15 @@
+@{
+    Employee[] employees = {
+        new Employee("Alice", Department.Sales),
+        new Employee("Bob", Department.Marketing),
+        new Employee("Charlie", Department.Engineering),
+        new Employee("Diana", Department.HR),
+        new Employee("Edward", Department.Finance)
+    };
+}
+
+<h1>Employee Departments</h1>
+
+@foreach(var employee in employees){
+    <p><b>Name: </b>@employee.Name <b>Department: </b>@employee.Department</p>
+}

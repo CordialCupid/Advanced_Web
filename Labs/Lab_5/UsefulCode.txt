@@ -1,0 +1,101 @@
+Create new MVC Project
+   dotnet new mvc -n <project name>
+   
+Build the application
+   dotnet build
+   
+Run the application
+   dotnet run
+   dotnet watch run
+
+Install entity framework tools globally
+   dotnet tool install --global dotnet-ef
+   
+Install the code generation tool:
+   dotnet tool install --global dotnet-aspnet-codegenerator
+
+Add code generation package:
+   dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design
+
+Scaffold a default empty view:
+   dotnet aspnet-codegenerator view <viewname> <viewtemplate> --useDefaultLayout --relativeFolderPath Views\<viewfolder>
+   
+dotnet aspnet-codegenerator view <viewname> <viewtemplate> --model <model> --useDefaultLayout --relativeFolderPath Views\<viewfolder> 
+
+   <viewtemplate> ::= Empty|Create|Edit|Delete|Details|List
+
+
+Controller Template
+using Microsoft.AspNetCore.Mvc;
+
+namespace <project>.Controllers;
+
+public class <ControllerName>Controller : Controller
+{
+}
+
+Packages
+dotnet add package Microsoft.EntityFrameworkCore.Sqlite
+dotnet add package Microsoft.EntityFrameworkCore.Tools
+dotnet add package Microsoft.EntityFrameworkCore.Design
+dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design
+
+--version 9.*
+
+dotnet add package Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore
+dotnet add package Microsoft.AspNetCore.Identity.EntityFrameworkCore
+dotnet add package Microsoft.AspNetCore.Identity.UI
+dotnet add package Microsoft.EntityFrameworkCore.Design
+dotnet add package Microsoft.EntityFrameworkCore.Sqlite
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+dotnet add package Microsoft.EntityFrameworkCore.Tools
+dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design
+
+DbContext
+public class ApplicationDbContext : DbContext
+{
+    public ApplicationDbContext(DbContextOptions options) : base(options)
+    {
+    }
+
+    public DbSet<_change_me> _change_me => Set<_change_me>();
+}
+
+Connection string
+"ConnectionStrings": {
+    "DefaultConnection": "Data Source=_change_me.db"
+}
+
+DbContext Configuration
+builder.Services.AddDbContext<YourDbContext>(options =>
+   options.UseSqlite(
+      builder.Configuration.GetConnectionString("DefaultConnection"))
+);
+
+Install entity framework tools globally
+   dotnet tool install --global dotnet-ef
+
+Create initial migration
+   dotnet ef migrations add Mig1
+
+Update database
+   dotnet ef database update
+
+Add new migrations
+   dotnet ef migrations add MigrationName
+
+Remove last migration
+   dotnet ef migrations remove
+
+Generate SQL script
+   dotnet ef migrations script
+
+dotnet add package Microsoft.AspNetCore.Identity.EntityFrameworkCore
+dotnet add package Microsoft.AspNetCore.Identity.UI
+
+Install LibMan: dotnet tool update -g Microsoft.Web.LibraryManager.Cli
+Initialize LibMan: libman init
+Add jQuery to LibMan: 
+libman install jquery@3.7.1 --provider cdnjs --destination wwwroot/lib/jquery/dist
+Add BootStrap to LibMan:
+libman install bootstrap@5.3.8 --provider cdnjs --destination wwwroot/lib/bootstrap/dist

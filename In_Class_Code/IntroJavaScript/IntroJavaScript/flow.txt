@@ -1,0 +1,10 @@
+1. created JavaScript1 action method in home controller and corresponding view
+2. Created new js file in wwwroot to contain JavaScript
+3. Added javascript2 and corresponding view file, but set up script tag differently
+4. added UsingJavaScript method and view as well as usingjs file, added javascript to using js
+5. Added moduledemo method and view as well as js file; also made myExports js file; Demoed export/import with files
+6. added classdemo method, view, and Rectangle/ClassDemo js files
+7. added Rectangle2.js to demonstrate setting
+8. added shapedemo action method to home controller, and added shapedemo view and js file as well as shapes js file; used to demonstrate an inheritance hierarchy
+9. Created dom.html to showcase DOM tree
+10. Created Job Applicaiton Form view and action method and js file, and DOMManipualtor js file to show document manipulation methods

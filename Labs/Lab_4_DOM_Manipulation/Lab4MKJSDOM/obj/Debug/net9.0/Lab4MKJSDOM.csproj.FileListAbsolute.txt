@@ -1,0 +1,200 @@
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\bin\Debug\net9.0\appsettings.json
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\bin\Debug\net9.0\Lab4MKJSDOM.staticwebassets.runtime.json
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\bin\Debug\net9.0\Lab4MKJSDOM.staticwebassets.endpoints.json
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\bin\Debug\net9.0\Lab4MKJSDOM.exe
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\bin\Debug\net9.0\Lab4MKJSDOM.deps.json
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\bin\Debug\net9.0\Lab4MKJSDOM.runtimeconfig.json
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\bin\Debug\net9.0\Lab4MKJSDOM.dll
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\bin\Debug\net9.0\Lab4MKJSDOM.pdb
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\Lab4MKJSDOM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\Lab4MKJSDOM.AssemblyInfoInputs.cache
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\Lab4MKJSDOM.AssemblyInfo.cs
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\Lab4MKJSDOM.csproj.CoreCompileInputs.cache
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\Lab4MKJSDOM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\Lab4MKJSDOM.RazorAssemblyInfo.cache
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\Lab4MKJSDOM.RazorAssemblyInfo.cs
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\scopedcss\bundle\Lab4MKJSDOM.styles.css
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\scopedcss\projectbundle\Lab4MKJSDOM.bundle.scp.css
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\8d9buwunh8-fbucrwh0zx.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\ixa8e5q7n0-61n19gt1b8.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\qktqchv8iq-xtxxf3hu2r.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\0kwa0t6ywj-bqjiyaj88i.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\wotyyq5884-c2jlpeoesf.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\n7eg5wt075-erw9l3u2r3.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\k2dtmwiaue-aexeepp0ev.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\atrhfmkkvk-d7shbmvgxk.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\rsc0rla2sb-ausgxo2sd3.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\ito7r9ziy8-k8d9w2qqmf.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\91u4zclv8v-cosvhxvwiu.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\me5idq7413-ub07r2b239.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\7gzqrcy70g-fvhpjtyr6v.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\lqmkqmangu-b7pk76d08c.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\s6xup3qfs4-fsbi9cje9m.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\ej03zqjy4l-rzd6atqjts.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\xohl2m6071-ee0r1s7dh0.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\m8veyx2iba-dxx9fxp4il.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\ttgs75arbg-jd9uben2k1.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\o1an9q1cup-khv3u5hwcm.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\mst60cqadk-r4e9w2rdcm.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\zjr7tkj2ds-lcd1t2u6c8.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\rik1qs24ss-c2oey78nd0.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\alfxzcv23w-tdbxkamptv.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\8j4g6lmupg-j5mq2jizvt.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\ke6hg8r1bp-06098lyss8.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\cehwda3gtp-nvvlpmu67g.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\7zsiimkf4e-s35ty4nyc5.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\r3daq4vce0-pj5nd1wqec.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\w7zktguz86-46ein0sx1k.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\0ftepwsglk-v0zj4ognzu.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\d2amkp8x7a-37tfw0ft22.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\z5im56ycxp-hrwsygsryq.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\4pwge7kipg-pk9g2wxc8p.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\r6pmnab2fe-ft3s53vfgj.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\pwa8khl0al-6cfz1n2cew.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\ov1yrhip0f-6pdc2jztkx.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\lzqadi5ydn-493y06b0oq.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\fmrtjnh6t8-iovd86k7lj.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\hoe44dhf2w-vr1egmr9el.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\s3vm4bd06p-kbrnm935zg.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\x35ctxg7ea-jj8uyg4cgr.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\cs2kj57kwq-y7v9cxd14o.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\7m3xlcmcm6-notf2xhcfb.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\wyeng0avz8-h1s4sie4z3.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\z0v5w3lyot-63fj8s7r0e.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\nogitrojs5-0j3bgjxly4.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\6ctkn1clc0-47otxtyo56.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\v61fbj3e5f-4v8eqarkd7.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\mh5h7ncvye-356vix0kms.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\l09vdz3am8-83jwlth58m.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\mn5ojvl3rx-mrlpezrjn3.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\pv5tbq4kdr-lzl9nlhx6b.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\m3qof34mci-ag7o75518u.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\z5hz7cd3ua-x0q3zqp4vz.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\sxp5k5l6nl-0i3buxo5is.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\gp5tk2ahk8-o1o13a6vjx.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\eyf45ned84-ttgo8qnofa.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\w5q8akm9kl-2z0ns9nrw6.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\3doocoov8c-muycvpuwrr.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\8nqqr7wwas-87fc7y1x7t.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\7s0cprd6jd-mlv21k5csn.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\8pj64mzjdq-ebs9tg4j36.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\u262pifjnp-ebs9tg4j36.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\Lab4MKJSDOM.dll
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\refint\Lab4MKJSDOM.dll
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\Lab4MKJSDOM.pdb
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\Lab4MKJSDOM.genruntimeconfig.cache
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\ref\Lab4MKJSDOM.dll
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\bin\Debug\net9.0\libman.json
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\y7zlg2nn7j-g2vilvl755.gz
+C:\Users\kelleymt\Desktop\InClass\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\e5llbrzdnn-itzvbl2ovw.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\bin\Debug\net9.0\appsettings.Development.json
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\bin\Debug\net9.0\appsettings.json
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\bin\Debug\net9.0\libman.json
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\bin\Debug\net9.0\Lab4MKJSDOM.staticwebassets.runtime.json
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\bin\Debug\net9.0\Lab4MKJSDOM.staticwebassets.endpoints.json
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\bin\Debug\net9.0\Lab4MKJSDOM.exe
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\bin\Debug\net9.0\Lab4MKJSDOM.deps.json
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\bin\Debug\net9.0\Lab4MKJSDOM.runtimeconfig.json
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\bin\Debug\net9.0\Lab4MKJSDOM.dll
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\bin\Debug\net9.0\Lab4MKJSDOM.pdb
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\Lab4MKJSDOM.GeneratedMSBuildEditorConfig.editorconfig
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\Lab4MKJSDOM.AssemblyInfoInputs.cache
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\Lab4MKJSDOM.AssemblyInfo.cs
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\Lab4MKJSDOM.csproj.CoreCompileInputs.cache
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\Lab4MKJSDOM.MvcApplicationPartsAssemblyInfo.cache
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\Lab4MKJSDOM.RazorAssemblyInfo.cache
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\Lab4MKJSDOM.RazorAssemblyInfo.cs
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\Lab4MKJSDOM.sourcelink.json
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\rjimswa.dswa.cache.json
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\scopedcss\bundle\Lab4MKJSDOM.styles.css
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\scopedcss\projectbundle\Lab4MKJSDOM.bundle.scp.css
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\2tkqcwfjgl-{0}-fbucrwh0zx-fbucrwh0zx.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\tvo3x9xdbd-{0}-61n19gt1b8-61n19gt1b8.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\x79m7cq4y2-{0}-itzvbl2ovw-itzvbl2ovw.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\ivmh6hyjfm-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\akaqfgejrv-{0}-bqjiyaj88i-bqjiyaj88i.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\6s8dtsjfqa-{0}-c2jlpeoesf-c2jlpeoesf.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\humeymik3g-{0}-erw9l3u2r3-erw9l3u2r3.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\0su3tj0r18-{0}-aexeepp0ev-aexeepp0ev.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\3oksj0infy-{0}-d7shbmvgxk-d7shbmvgxk.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\564h052cz0-{0}-ausgxo2sd3-ausgxo2sd3.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\y6ufx36svc-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\vvgfohme51-{0}-cosvhxvwiu-cosvhxvwiu.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\qgiubfglim-{0}-ub07r2b239-ub07r2b239.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\0xeufd8a3q-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\2ykk2kp25q-{0}-b7pk76d08c-b7pk76d08c.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\wnqzv88j0z-{0}-fsbi9cje9m-fsbi9cje9m.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\2ikzmf5h0d-{0}-rzd6atqjts-rzd6atqjts.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\zssjw1ssrb-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\mv3wsumbmk-{0}-dxx9fxp4il-dxx9fxp4il.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\ratcw2xkuo-{0}-jd9uben2k1-jd9uben2k1.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\aqjobt5yd0-{0}-khv3u5hwcm-khv3u5hwcm.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\jqv00a6n7g-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\pz4abo7yel-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\rwba1rruv8-{0}-c2oey78nd0-c2oey78nd0.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\m1ze5dnqna-{0}-tdbxkamptv-tdbxkamptv.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\pj7ckm9km6-{0}-j5mq2jizvt-j5mq2jizvt.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\32rvanvyrv-{0}-06098lyss8-06098lyss8.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\fnwwlnp49l-{0}-nvvlpmu67g-nvvlpmu67g.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\d8xp2n9z3u-{0}-s35ty4nyc5-s35ty4nyc5.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\gv6ycfqz3c-{0}-pj5nd1wqec-pj5nd1wqec.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\xcx53bcu9m-{0}-46ein0sx1k-46ein0sx1k.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\bir77jrttu-{0}-v0zj4ognzu-v0zj4ognzu.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\srxlzcp0xu-{0}-37tfw0ft22-37tfw0ft22.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\abdzsagqr8-{0}-hrwsygsryq-hrwsygsryq.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\uexhrpr7fa-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\88gi5a67qs-{0}-ft3s53vfgj-ft3s53vfgj.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\dempzvckaq-{0}-6cfz1n2cew-6cfz1n2cew.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\bq6wtrclzn-{0}-6pdc2jztkx-6pdc2jztkx.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\scepll1rl6-{0}-493y06b0oq-493y06b0oq.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\xekbjnx6go-{0}-iovd86k7lj-iovd86k7lj.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\j4wz6kw31v-{0}-vr1egmr9el-vr1egmr9el.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\3aof80jpnr-{0}-kbrnm935zg-kbrnm935zg.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\mleyataz4k-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\z4z56zaal1-{0}-y7v9cxd14o-y7v9cxd14o.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\yne38gz1nx-{0}-notf2xhcfb-notf2xhcfb.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\eoyj6h1w5n-{0}-h1s4sie4z3-h1s4sie4z3.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\v3wet81u0t-{0}-63fj8s7r0e-63fj8s7r0e.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\aslrzqblv5-{0}-0j3bgjxly4-0j3bgjxly4.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\p8kkxai1yj-{0}-47otxtyo56-47otxtyo56.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\mho1pi1owt-{0}-4v8eqarkd7-4v8eqarkd7.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\gxs2p1404s-{0}-356vix0kms-356vix0kms.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\fwxuw6d06t-{0}-83jwlth58m-83jwlth58m.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\fl566yebhe-{0}-mrlpezrjn3-mrlpezrjn3.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\duwdikyohd-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\jmfsi7jr7s-{0}-ag7o75518u-ag7o75518u.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\4a9bsoum7r-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\ip9efrotmg-{0}-0i3buxo5is-0i3buxo5is.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\trjclrlgj7-{0}-o1o13a6vjx-o1o13a6vjx.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\oyzwzjl3fn-{0}-ttgo8qnofa-ttgo8qnofa.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\jfu7jhtbu4-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\by5qiwiqqq-{0}-muycvpuwrr-muycvpuwrr.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\14n9fctw45-{0}-87fc7y1x7t-87fc7y1x7t.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\y5w2t3cku1-{0}-mlv21k5csn-mlv21k5csn.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\w09l3rxfgj-{0}-51lm0elezj-51lm0elezj.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\0w1h9f6qlz-{0}-51lm0elezj-51lm0elezj.gz
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\staticwebassets.build.json
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\staticwebassets.development.json
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\swae.build.ex.cache
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\Lab4MKJSDOM.dll
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\refint\Lab4MKJSDOM.dll
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\Lab4MKJSDOM.pdb
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\Lab4MKJSDOM.genruntimeconfig.cache
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\ref\Lab4MKJSDOM.dll
+E:\ETSU\ETSU 2026 Spring\Adv Web\Labs\Lab_4_DOM_Manipulation\Lab4MKJSDOM\obj\Debug\net9.0\compressed\bf6v2ifb43-{0}-o7t9pkd63j-o7t9pkd63j.gz

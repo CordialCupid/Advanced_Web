@@ -1,0 +1,18 @@
+@{
+    ViewData["Title"] = "Employee Departments";
+    Employee[] emps = {
+            new Employee("Jim", dept: Department.Sales),
+            new Employee("Dwight", dept: Department.Finance),
+            new Employee("Michael", dept: Department.Engineering),
+            new Employee("Toby", dept: Department.HR),
+            new Employee("Angela", dept: Department.Marketing),
+        };
+}
+
+<h1>Employee Departments</h1>
+
+@foreach (Employee emp in emps) {
+    <br />
+    <p><strong>Name:</strong> @emp.Name <strong>Department:</strong> @emp.Department</p>
+    
+}

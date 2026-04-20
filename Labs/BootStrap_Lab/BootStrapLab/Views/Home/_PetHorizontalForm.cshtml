@@ -1,0 +1,47 @@
+@model Pet
+<div class="row mb-3">
+    <label asp-for="Name" class="col-1 col-form-label"></label>
+    <div class="col-5">
+        <input type="text" asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+</div>
+<div class="row mb-3">
+    <label asp-for="Type" class="col-1 col-form-label"></label>
+    <div class="col-5">
+        <select class="form-control" asp-for="Type" aria-label="Pet type">
+            <option selected>Choose your pet's type:</option>
+            <option value="Bird">Bird</option>
+            <option value="Cat">Cat</option>
+            <option value="Dog">Dog</option>
+            <option value="Snake">Snake</option>
+        </select>
+    </div>
+</div>
+<div class="row mb-3">
+    <label class="col-1 col-form-label pt-0">Gender</label>
+    <div class="col-11">
+        <div class="form-check">
+            <input class="form-check-input" type="radio" id="femaleRdo" name="Gender" value="Female" checked />
+            <label class="form-check-label" for="femaleRdo">
+                Female
+            </label>
+        </div>
+        <div class="form-check">
+            <input class="form-check-input" type="radio" id="maleRdo" name="Gender" value="Male" />
+            <label class="form-check-label" for="maleRdo">
+                Male
+            </label>
+        </div>
+    </div>
+</div>
+<div class="row mb-3">
+    <div class="col-11 offset-1">
+        <div class="form-check">
+            <input asp-for="IsNeutered" class="form-check-input" type="checkbox" id="isNeuteredChk">
+            <label class="form-check-label" for="isNeuteredChk">
+                Is Neutered
+            </label>
+        </div>
+    </div>
+</div>

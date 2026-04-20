@@ -1,0 +1,12 @@
+@{
+    ViewData["Title"] = "Class Demo";
+}
+
+<h1>@ViewData["Title"]</h1>
+<p>Please view the console</p>
+
+@*Typically dont want javascript to be exposed to user, so you normally want to put it into its own file*@
+
+@section Scripts{
+    <script type="module" src="~/js/classDemo.js"></script> @*have to have type=module for modules in js to work*@
+}

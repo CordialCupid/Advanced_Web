@@ -1,0 +1,10 @@
+@{
+    ViewData[index: "Title"] = "Employee Details";
+
+    Employee emp = new Employee("Mason", dept: Department.IT);
+}
+
+<h1>Employee Details</h1>
+
+<p><strong>Employee Name:</strong> @emp.Name</p> <br />
+<p><strong>Employee Department:</strong> @emp.Department</p>

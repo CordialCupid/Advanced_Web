@@ -1,0 +1,75 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    @* Layout = null; <!--lets us change a layout for an individual page--> *@
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to CSCI 3110</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<!-- This is a client-side comment -->
+@* This is a server-side comment *@
+Some text
+@*
+    This is a multi-line server-side comment
+*@
+
+@* Code block *@
+@{
+    string greet = "hello";
+    char gender = 'X';
+    double val = 12.3;
+    decimal tax = 0.01m;
+    float val2 = 3.4f;
+}
+
+@* Inline expression *@
+<p>@greet @gender @val @tax @val2</p>
+<p>@greet Will. You are @gender.  Value is @val.</p>
+
+@* Code and Markup *@
+@if(gender == 'M')
+{
+    <h3>Male</h3>
+}
+else
+{
+    <h3>Other</h3>
+}
+
+@for(int i = 2; i <= 20; i += 2)
+{
+    <span>@i </span>
+}
+
+@{
+    string[] names = { "John", "Jane", "Devlin", "Mary" };
+
+}
+
+<ul>
+    @foreach(var n in names)
+    {
+        <li>@n</li>
+    };
+</ul>
+
+@{
+    var foo = true;
+    var bar = "some value";
+}
+
+@if(foo){
+    <text>Plain text</text>
+}
+<br/>
+
+@if(foo){
+    @:Plain text @bar
+}
+<br/>
+@* Explicit Expression *@
+345 * 67 % 34 = @(345 & 67 %37)
+
+<partial name="_MyPartial" />

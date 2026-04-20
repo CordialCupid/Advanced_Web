@@ -1,0 +1,73 @@
+@{
+    ViewData["Title"] = "Movies";
+}
+
+<div class="container-fluid py-4">
+    <div class="row mb-4">
+        <div class="col-12">
+            <h1 class="display-5 fw-bold text-primary mb-3">
+                <i class="bi bi-film"></i> Movie Collection
+            </h1>
+        </div>
+    </div>
+
+    <!-- Add New Movie Card -->
+    <div class="row mb-4">
+        <div class="col-12">
+            <div class="card shadow-sm border-0 bg-light">
+                <div class="card-body">
+                    <h5 class="card-title mb-3">
+                        <i class="bi bi-plus-circle"></i> Add New Movie
+                    </h5>
+                    <form id="movieForm">
+                        <input type="hidden" id="movieId" value="0" name="movieId"/>
+                        <div class="row g-3">
+                            <div class="col-md-3">
+                                <label for="title" class="form-label">Title</label>
+                                <input type="text" class="form-control" id="title" placeholder="Enter movie title"
+                                    required name="title">
+                            </div>
+                            <div class="col-md-3">
+                                <label for="director" class="form-label">Director</label>
+                                <input type="text" class="form-control" id="director" placeholder="Enter director name"
+                                    required name="director">
+                            </div>
+                            <div class="col-md-2">
+                                <label for="releaseDate" class="form-label">Release Date</label>
+                                <input type="date" class="form-control" id="releaseDate" required name="releaseDate">
+                            </div>
+                            <div class="col-md-2">
+                                <label for="isAvailable" class="form-label">Availability</label>
+                                <select class="form-select" id="isAvailable" name="isAvailable">
+                                    <option value="true">Available</option>
+                                    <option value="false">Unavailable</option>
+                                </select>
+                            </div>
+                            <div class="col-md-2 d-flex align-items-end">
+                                <button type="submit" class="btn btn-primary w-100" id="submitBtn">
+                                    <i class="bi bi-plus-lg"></i> Add Movie
+                                </button>
+                            </div>
+                        </div>
+                        <div class="row mt-2" id="cancelBtnRow" style="display: none;">
+                            <div class="col-12">
+                                <button type="button" class="btn btn-secondary btn-sm" id="cancelBtn">
+                                    <i class="bi bi-x-circle"></i> Cancel Edit
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Movies Grid -->
+    <div class="row" id="moviesGrid">
+        <!-- Sample Movie Cards (These will be dynamically generated with JavaScript) -->
+    </div>
+</div>
+
+@section Scripts {
+    <script defer type="module" src="~/js/movieIndex.js"></script>
+}

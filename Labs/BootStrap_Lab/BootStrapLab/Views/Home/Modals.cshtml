@@ -1,0 +1,29 @@
+@{
+    ViewData["Title"] = "Modals";
+}
+
+<div class="container">
+    <h1>Modals (Trigger with data-bs)</h1>
+    <button type="button" class="btn btn-primary"
+            data-bs-toggle="modal"
+            data-bs-target="#petModal">
+        Create Pet
+    </button>
+</div>
+
+<div class="container">
+    <h1>Modals (Trigger with JavaScript)</h1>
+    <button id="createPetBtn" type="button" class="btn btn-primary">
+        Create Pet (JavaScript)
+    </button>
+</div>
+
+
+<partial name="_PetModal" />
+
+@section Scripts{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script type="module" defer src="~/js/homeModals.js"></script>
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ETSU\\ETSU 2026 Spring\\Adv Web\\Labs\\Lab1\\CSCI3110Lab01MK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07BD5F92-B62F-189B-5323-661E03FBE0A5}|CSCI3110Lab01MK.csproj|e:\\etsu\\etsu 2026 spring\\adv web\\labs\\lab1\\csci3110lab01mk\\views\\home\\timestable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07BD5F92-B62F-189B-5323-661E03FBE0A5}|CSCI3110Lab01MK.csproj|solutionrelative:views\\home\\timestable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07BD5F92-B62F-189B-5323-661E03FBE0A5}|CSCI3110Lab01MK.csproj|e:\\etsu\\etsu 2026 spring\\adv web\\labs\\lab1\\csci3110lab01mk\\views\\home\\simpletypes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07BD5F92-B62F-189B-5323-661E03FBE0A5}|CSCI3110Lab01MK.csproj|solutionrelative:views\\home\\simpletypes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TimesTable.cshtml",
+              "DocumentMoniker": "E:\\ETSU\\ETSU 2026 Spring\\Adv Web\\Labs\\Lab1\\CSCI3110Lab01MK\\Views\\Home\\TimesTable.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\TimesTable.cshtml",
+              "ToolTip": "E:\\ETSU\\ETSU 2026 Spring\\Adv Web\\Labs\\Lab1\\CSCI3110Lab01MK\\Views\\Home\\TimesTable.cshtml",
+              "RelativeToolTip": "Views\\Home\\TimesTable.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-10T00:27:11.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimpleTypes.cshtml",
+              "DocumentMoniker": "E:\\ETSU\\ETSU 2026 Spring\\Adv Web\\Labs\\Lab1\\CSCI3110Lab01MK\\Views\\Home\\SimpleTypes.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\SimpleTypes.cshtml",
+              "ToolTip": "E:\\ETSU\\ETSU 2026 Spring\\Adv Web\\Labs\\Lab1\\CSCI3110Lab01MK\\Views\\Home\\SimpleTypes.cshtml",
+              "RelativeToolTip": "Views\\Home\\SimpleTypes.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-10T00:20:42.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

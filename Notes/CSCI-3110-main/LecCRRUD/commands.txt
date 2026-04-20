@@ -1,0 +1,32 @@
+   8 dotnet tool update --global dotnet-ef --version 9.*
+   9 dotnet build
+  10 dotnet build
+  11 dotnet build
+  12 dotnet ef migrations add Mig1
+  13 dotnet ef database update
+  14 dotnet build
+  15 dotnet build
+  16 dotnet build
+  17 dotnet ef migrations add Mig1
+  18 dotnet ef database update
+  19 dotnet ef database update
+  20 dotnet build
+  21 dotnet build
+  22 dotnet build
+  23 dotnet build
+  24 dotnet build
+  25 dotnet tool install -g dotnet-aspnet-codegenerator --version 9.*
+  26 dotnet add package Microsoft.VisualStudio.Web.CondeGeneration
+  27 dotnet add package Microsoft.VisualStudio.Web.CondeGeneration.Design --version 9.*
+  28 dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design --version 9.*
+  29 dotnet aspnet-codegenerator view Index List --model Person --useDefaultLayout --relativeFolderPath Views\Person
+  30 dotnet aspnet-codegenerator view Create Create --model Person --useDefaultLayout --relativeFolderPath Views\Person
+           to use this, you may need to run: 
+           dotnet tool install -g dotnet-aspnet-codegenerator --version 9.*
+           dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design --version 9.*
+  31 dotnet aspnet-codegenerator view Details Details --model Person --useDefaultLayout --relativeFolderPath Views\Person
+  32 dotnet aspnet-codegenerator view Edit Edit --model Person --useDefaultLayout --relativeFolderPath Views\Person
+  33 dotnet aspnet-codegenerator view Delete Delete --model Person --useDefaultLayout --relativeFolderPath Views\Person
+  34 
+
+new page is hosted at /person/index

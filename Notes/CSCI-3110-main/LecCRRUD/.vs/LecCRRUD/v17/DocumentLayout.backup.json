@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ETSU\\Spring 2026\\Adv Web\\Notes\\CSCI-3110-main\\LecCRRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01F843-3162-3915-0D32-CF40D202F6F9}|LecCRRUD.csproj|e:\\etsu\\spring 2026\\adv web\\notes\\csci-3110-main\\leccrrud\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E01F843-3162-3915-0D32-CF40D202F6F9}|LecCRRUD.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E01F843-3162-3915-0D32-CF40D202F6F9}|LecCRRUD.csproj|e:\\etsu\\spring 2026\\adv web\\notes\\csci-3110-main\\leccrrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E01F843-3162-3915-0D32-CF40D202F6F9}|LecCRRUD.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\ETSU\\Spring 2026\\Adv Web\\Notes\\CSCI-3110-main\\LecCRRUD\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\ETSU\\Spring 2026\\Adv Web\\Notes\\CSCI-3110-main\\LecCRRUD\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-17T15:30:18.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\ETSU\\Spring 2026\\Adv Web\\Notes\\CSCI-3110-main\\LecCRRUD\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\ETSU\\Spring 2026\\Adv Web\\Notes\\CSCI-3110-main\\LecCRRUD\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-17T15:29:48.496Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

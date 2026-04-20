@@ -1,0 +1,17 @@
+@{
+    ViewData[index: "Title"] = "Simple Types";
+
+    string name = "Mason";
+    bool typeBool = true;
+    sbyte typeSByte = 1;
+    decimal typeDecimal = 1.111m;
+    float typeFloat = 1.23f;
+    uint typeUInt= 254;
+    short typeShort = 100;
+
+    string output = $"My name is {name}. My values: {typeBool} {typeSByte} {typeDecimal} {typeFloat} {typeUInt} {typeShort}";
+}
+
+<h1>Simple Types</h1>
+<p>@output</p>
+

@@ -1,0 +1,10 @@
+@{
+    ViewData[index: "Title"] = "My Book";
+
+    Book myBook = new Book("The Expanse: Leviathan Wakes", "James S.A. Corey", 2011);
+}
+
+<h1>My Book</h1>
+<p><strong>Title:</strong> @myBook.Title</p>
+<p><strong>Author:</strong> @myBook.Author</p>
+<p><strong>Publication Year:</strong> @myBook.PublicationYear</p>

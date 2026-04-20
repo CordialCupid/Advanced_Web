@@ -1,0 +1,12 @@
+@{
+    ViewData["Title"] = "Using JavaScript";
+}
+
+<h1>@ViewData["Title"]</h1>
+<p>Please view the console</p>
+
+@*Typically dont want javascript to be exposed to user, so you normally want to put it into its own file*@
+
+@section Scripts{
+    <script src="~/js/usingjs.js"></script>
+}

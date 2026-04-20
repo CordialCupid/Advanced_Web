@@ -1,0 +1,50 @@
+<div class="modal fade" id="bookDetailsModal" tabindex="-1" aria-labelledby="bookDetailsModalLabel">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="bookDetailsModalLabel">Book Details</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <!-- Book Title -->
+                <div class="mb-4">
+                    <h4 id="bookTitle" class="text-primary">Book's title</h4>
+                    <p class="text-muted mb-0">
+                        <small>
+                            Published: <span id="bookPublicationYear">Book's publication year</span>
+                        </small>
+                    </p>
+                </div>
+
+                <!-- Number of Authors -->
+                <div class="mb-3">
+                    <strong>Number of Authors:</strong>
+                    <span id="numberOfAuthors" class="badge bg-secondary">
+                        Number of authors
+                    </span>
+                    <button class="btn btn-primary add-author-btn" data-book-id="${book.id}">Add Author</button>
+                </div>
+
+                <!-- Authors Table -->
+                <div class="mb-3">
+                    <strong>Authors:</strong>
+                    <div class="table-responsive mt-2">
+                        <table class="table table-sm table-striped table-hover">
+                            <thead class="table-light">
+                                <tr>
+                                    <th>#</th>
+                                    <th>Author Name</th>
+                                </tr>
+                            </thead>
+                            <tbody id="bookAuthors">
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>

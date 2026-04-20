@@ -1,0 +1,29 @@
+@{
+    ViewData[index: "Title"] = "Times Table";
+
+    int[,] timeTable = new int[12,12]; // multidimensional array is not an array of arrays, rather it should be viewed as a square matrix of row-column indexes
+
+    for (int i = 0; i < timeTable.GetLength(0); i++)
+    {
+        for (int j = 0; j < timeTable.GetLength(1); j++)
+        {
+            timeTable[i, j] = (i + 1) * (j + 1);
+        }
+    }
+}
+
+<h1>Times Table</h1>
+<table class="table table-bordered w-25">
+    @for (int i = 0; i < timeTable.GetLength(0); i++) { // dimension 1 refers to columns, dimension 0 refers to columns; Only two "rows" but 12 columns
+        <tr>
+            @for (int j = 0; j < timeTable.GetLength(1); j++){ // multidimensional arrays are uniform in length, meaning it is a square matrix and the length of each "array" in it must be the same length
+                <td>
+                    @{
+                        int result = timeTable[i,j];
+                    }  
+                    @result 
+                </td>
+            }
+        </tr>    
+    }
+</table>

@@ -1,0 +1,14 @@
+@{
+    ViewData["Title"] = "JavaScript 1";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+@*Typically dont want javascript to be exposed to user, so you normally want to put it into its own file*@
+
+@section Scripts{
+    <script>
+        let h1s = document.getElementsByTagName('h1');
+        h1s[0].style.backgroundColor = "red";
+    </script>
+}
